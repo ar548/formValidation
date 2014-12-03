@@ -16,7 +16,7 @@
 						required: true,
 						minlength: 8, 
 					}
-				}
+				},
 				messages: {
 					firstname: "Please enter your firstname",
 					lastname: "Please enter your lastname",
